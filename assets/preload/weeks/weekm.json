@@ -1,0 +1,30 @@
+{
+	"storyName": "Don't Make Any Underestimations. (Demo)",
+	"hideFreeplay": false,
+	"weekBackground": "peru",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Mechanicalistic",
+			"themechanism",
+			[
+				85,
+				65,
+				85
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"themechanism",
+		"bf",
+		"gf"
+	],
+	"weekName": "Mechanism Week"
+}

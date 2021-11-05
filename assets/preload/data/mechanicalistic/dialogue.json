@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "themechanism",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "crank"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "themechanism",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "crank?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "themechanism",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "craaank!?!?!?"
+		}
+	]
+}

@@ -1,2 +1,2 @@
 # MechanismDemoSource
- source code for the vs mechanism mod demo lol
+ source code for vs mechanism mod demo lol

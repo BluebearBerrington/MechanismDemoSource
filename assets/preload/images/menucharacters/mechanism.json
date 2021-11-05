@@ -1,0 +1,11 @@
+{
+	
+	"image": "The_Mechanism_Menu",
+	"position": [
+		43,
+		40
+	],
+	"scale": 0.75,
+	"idle_anim": "mechanism_menu",
+	"confirm_anim": "mechanism_menu"
+}

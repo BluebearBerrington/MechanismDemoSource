@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				-17,
+				-48
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mechanism_down"
+		},
+		{
+			"offsets": [
+				40,
+				15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mechanism_up"
+		},
+		{
+			"offsets": [
+				-50,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mechanism_right"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mechanism_idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mechanism_left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/The_Mechanism_Phase1",
+	"position": [
+		210,
+		290
+	],
+	"healthicon": "mechanism",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		195,
+		186
+	],
+	"camera_position": [
+		-110,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
